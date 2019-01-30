@@ -20,11 +20,11 @@
 - Do you fix bugs before writing new code? `Регулярно возвращаем технические долги`
 - Do you have an up-to-date schedule? `Работаем по гибким методологиями разработки, планируем и строим спринты раз в 2-4 недели`
 - Do you have a spec? `Пишем свои спецификации, процедуры и стандарты`
-- Do programmers have quiet working conditions? `У нас опенспейс`
+- Do programmers have quiet working conditions? `У нас опенспейс, тут не всегда тихо`
 - Do you use the best tools money can buy? `Стараемся покупать все необходимое`
 - Do you have testers? `У нас есть отдел тестирования, мы пишем сценарии тестирования и интеграционные тесты`
-- Do new candidates write code during their interview? `Да`
-- Do you do hallway usability testing? `Нет`
+- Do new candidates write code during their interview? `Кандидаты на должность миддлов и сеньоров пишут код`
+- Do you do hallway usability testing? `Сейчас нет`
 
 # Наш код
 
