@@ -1,6 +1,6 @@
 # Добро пожаловать
 
-![](https://github.com/Softrack-LLP/about/blob/master/softrack1.png)
+![лого](https://github.com/Softrack-LLP/about/blob/master/softrack1.png)
 
 Развивающаяся казахстанская софтверная компания. Работаем на рынке IT с 2009 года.
 
@@ -25,3 +25,24 @@
 - Do you have testers? `У нас есть отдел тестирования, мы пишем сценарии тестирования и интеграционные тесты`
 - Do new candidates write code during their interview? `Да`
 - Do you do hallway usability testing? `Нет`
+
+# Наш код
+
+Посмотреть на наш код можно в следующих репозиториях:
+
+1. https://github.com/allpaykz
+2. https://github.com/Softrack-LLP
+
+# Наш технологический стэк
+
+- OS: Windows / *nix
+- Frontend: Angular JS, JSF
+- Languages: Core Java (Java SE), Java EE, JavaScript
+- Databases: Oracle / PostgreSQL
+- IDE: IntelliJ IDEA
+- Build: Maven/Gradle/Bash/Ansible/Docker
+- Test: TestNG/Selenium/ReportPortal, Mock frameworks
+- Servers: Nginx, Tomcat, WildFly
+- Bug Tracking / VCS: Jira, git, Gitlab
+- Frameworks: Hibernate, Spring, EJB, JAX-WS, Resteasy
+- Other: ElasticSearch, Apache Kafka, Drools, Docker, Ansible, Gitlab CI, Telegram
