@@ -2,7 +2,7 @@
 
 ![лого](https://github.com/Softrack-LLP/about/blob/master/softrack1.png)
 
-Развивающаяся казахстанская софтверная компания. Работаем на рынке IT с 2009 года.
+Казахстанская софтверная компания. Работаем на рынке IT с 2009 года.
 
 # Наши разработки
 
@@ -36,10 +36,10 @@
 # Наш технологический стэк
 
 - OS: Windows / *nix
-- Frontend: Angular JS, JSF
-- Languages: Core Java (Java SE), Java EE, JavaScript
+- Frontend: Angular, JS, JSF
+- Languages: Java, JavaScript, TypeScript, Swift
 - Databases: Oracle / PostgreSQL
-- IDE: IntelliJ IDEA
+- IDE: IntelliJ IDEA, vim
 - Build: Maven/Gradle/Bash/Ansible/Docker
 - Test: TestNG/Selenium/ReportPortal, Mock frameworks
 - Servers: Nginx, Tomcat, WildFly
