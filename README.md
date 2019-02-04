@@ -46,3 +46,7 @@
 - Bug Tracking / VCS: Jira, git, Gitlab
 - Frameworks: Hibernate, Spring, EJB, JAX-WS, Resteasy
 - Other: ElasticSearch, Apache Kafka, Drools, Docker, Ansible, Gitlab CI, Telegram
+
+# Вакансии
+
+- [Здесь](https://github.com/Softrack-LLP/about/blob/master/vacancies.MD)
