@@ -19,6 +19,7 @@
 - http://smq.kz, https://smartqala.kz
 - https://payapp.kz
 - https://vostokplat.kz
+- https://avtobys.kz
 
 ### Что у нас внутри
 
